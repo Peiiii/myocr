@@ -1,0 +1,4 @@
+Keras==2.2.5
+torchvision==0.4.0
+opencv-python
+cython
